@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spit it out on Sarah Reen Portfolio</title>
+    <link>https://SarahReen.com/tags/spit-it-out/</link>
+    <description>Recent content in spit it out on Sarah Reen Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sarah Reen</copyright>
+    <lastBuildDate>Wed, 22 Nov 2023 14:46:30 -0500</lastBuildDate><atom:link href="https://SarahReen.com/tags/spit-it-out/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spit It Out - Week 14 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week14_article/</link>
+      <pubDate>Wed, 22 Nov 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week14_article/</guid>
+      <description>Bug Fixing &amp;amp; QA This week I continued work on fixing bugs such as:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week14_article/featured_img_01.JPG" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 13 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week13_article/</link>
+      <pubDate>Wed, 15 Nov 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week13_article/</guid>
+      <description>Programming During this devlog cycle, I began the (rather fun) process of implementing sprites and animations for the player characters, along with the new radial UI for selecting gizmos.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week13_article/featured_img_01.png" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 12 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week12_article/</link>
+      <pubDate>Wed, 08 Nov 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week12_article/</guid>
+      <description>Bug Fixing &amp;amp; QA For this devlog cycle, the vast majority of my time was spent putting out fires in the form of bug fixing and major feature tweaking to better suit the level designers to have a build of the game ready.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week12_article/featured_img_01.png" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 11 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week11_article/</link>
+      <pubDate>Wed, 01 Nov 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week11_article/</guid>
+      <description>Programming This week I focused my attention mostly on getting Two Player Co-Op working with Split Screen.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week11_article/featured_img_01.png" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 10 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week10_article/</link>
+      <pubDate>Wed, 25 Oct 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week10_article/</guid>
+      <description>Programming During this devlog cycle, I focused on trying to get the 2 Player Co-op systems working properly, along with setting things up for the Level Designers to begin testing things out.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week10_article/featured_img_01.JPG" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 8 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week8_article/</link>
+      <pubDate>Sat, 21 Oct 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week8_article/</guid>
+      <description>Programming I continued my work on implementing the Interaction System which will be vital in implementing the various gizmos and &amp;ldquo;gadgets.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week8_article/featured_img_03.png" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 9 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week9_article/</link>
+      <pubDate>Wed, 18 Oct 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week9_article/</guid>
+      <description>Programming For week 9 I finalized the systems for all the Gizmos (Crank, Slider, Button, and Lever), along with the wire system, and created some of the basic Gadgets that the Level Designers will need for the first level.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week9_article/featured_img_01.png" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 7 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week7_article/</link>
+      <pubDate>Wed, 04 Oct 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week7_article/</guid>
+      <description>Programming This week I began work on what will most likely be the most complicated system in our game, the Gizmo system.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week7_article/featured_GizmoInteractionSystemDiagram.jpg" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 6 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week6_article/</link>
+      <pubDate>Wed, 27 Sep 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week6_article/</guid>
+      <description>Game Design Working with Grayson and William, we went through many different iterations of what the gameplay loop would be between the two players.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week6_article/featured_img_01.jpg" />
+    </item>
+    
+  </channel>
+</rss>

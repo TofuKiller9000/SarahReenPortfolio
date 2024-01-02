@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>on-going on Sarah Reen Portfolio</title>
+    <link>https://SarahReen.com/tags/on-going/</link>
+    <description>Recent content in on-going on Sarah Reen Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Sarah Reen</copyright>
+    <lastBuildDate>Fri, 29 Dec 2023 14:28:57 -0500</lastBuildDate><atom:link href="https://SarahReen.com/tags/on-going/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spit It Out!</title>
+      <link>https://SarahReen.com/projects/spititout_project/</link>
+      <pubDate>Fri, 29 Dec 2023 14:28:57 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/projects/spititout_project/</guid>
+      <description>Co-Director &amp;amp; Lead Programmer (August 2023 - current)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/projects/spititout_project/featured_SpitItOut_Poster.png" />
+    </item>
+    
+    <item>
+      <title>Our Town</title>
+      <link>https://SarahReen.com/projects/ourtown_project/</link>
+      <pubDate>Fri, 29 Dec 2023 14:10:07 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/projects/ourtown_project/</guid>
+      <description>Lead Programmer &amp;amp; Technical Artist (August 2023 - current)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/projects/ourtown_project/featured_OurTownLogo_02.jpg" />
+    </item>
+    
+    <item>
+      <title>Spit It Out - Week 15 Devlog</title>
+      <link>https://SarahReen.com/posts/spititout_devlogs_week15_article/</link>
+      <pubDate>Wed, 29 Nov 2023 14:46:30 -0500</pubDate>
+      
+      <guid>https://SarahReen.com/posts/spititout_devlogs_week15_article/</guid>
+      <description>Programming This devlog cycle was partly broken up by Thanksgiving break, where I was barred from my family from doing work.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://SarahReen.com/posts/spititout_devlogs_week15_article/featured_img_01.png" />
+    </item>
+    
+  </channel>
+</rss>
