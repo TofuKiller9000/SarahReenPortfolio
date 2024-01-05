@@ -41,7 +41,7 @@ What do you discover through your investigation? What seems like the perfect 196
 
 ### Programming
 
-*Our Town* is an ongoing project which currently has a live demo out. I am the Lead Programmer and Technial Designer for the project working in Unreal Engine 5. Some of the key systems I have created for the game include but are not limited to: 
+*Our Town* is an ongoing project which currently has a live demo out. I am the Lead Programmer and Technical Designer for the project working in Unreal Engine 5. Some of the key systems I have created for the game include but are not limited to: 
 
 - Branching Dialogue Trees
 - Dynamic Interaction System

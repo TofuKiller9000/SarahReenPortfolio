@@ -43,7 +43,8 @@ Story
 ### Co-Op
 
 <img class="thumbnailshadow" src="img/SpitItOut_12.jpg"/>
-*Spit It Out* takes inspiration from classic 2 player co-op games such as *Portal 2*, *Lego Starwars*, and *It Takes Two*. Our team focused early on in development in creating the ideal co-op gameplay loop that rewarded both players. We set out these main goals early on: 
+
+*Spit It Out*  takes inspiration from classic 2 player co-op games such as *Portal 2*, *Lego Starwars*, and *It Takes Two*. Our team focused early on in development in creating the ideal co-op gameplay loop that rewarded both players. We set out these main goals early on: 
 
 1. No player should be waiting on the other player for more than around 5 - 10 seconds
 2. Both players should be held equally accountable for their actions. No one player should be blamed for a mistake

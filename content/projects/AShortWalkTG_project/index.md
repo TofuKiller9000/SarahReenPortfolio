@@ -56,11 +56,11 @@ The Coastline introduces melee enemies to the player with simplistic pathing, al
 <img class="thumbnailshadow" src="img/Level3.PNG"/>
 <img class="thumbnailshadow" src="img/collectible_02.JPG"/>
 
-The Castle is a labrythn the player must navigate to successfully find the next page. This level has more deadly melee enemies, along with environmental hazards such as spears, acid, and spike pits. The collectibles are more well hidden in secret areas and tunnels. One collectible is found in a obscured drop down tunnel that the player cannot fully access until later in the level, but it is hinted at by the placement of a skeleton enemy at the entrance. 
+The Castle is a labyrinth the player must navigate to successfully find the next page. This level has more deadly melee enemies, along with environmental hazards such as spears, acid, and spike pits. The collectibles are more well hidden in secret areas and tunnels. One collectible is found in a obscured drop down tunnel that the player cannot fully access until later in the level, but it is hinted at by the placement of a skeleton enemy at the entrance. 
 
 <img class="thumbnailshadow" src="img/Level4.PNG"/>
 
-Finally, the Forest combines everything the player has experienced so far with a plethora of melee and projectile enemies, along with environmental hazards. Depending on the path the player takes, they might traverse through the thorny trees with hiding goblins, or jump above the trees with flying mosters. 
+Finally, the Forest combines everything the player has experienced so far with a plethora of melee and projectile enemies, along with environmental hazards. Depending on the path the player takes, they might traverse through the thorny trees with hiding goblins, or jump above the trees with flying monsters. 
 
 The collectibles found throughout the levels encourage the player to search through each level to find secrets and succeed in platforming challenges. 
 
